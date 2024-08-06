@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: rgb(167, 167, 167);
+}
+
+.swiper-pagination {
+    /* background-color: black; */
+}
+
+.swiper-pagination-bullet {
+    padding: 0 .2rem;
+    margin: 0;
+    background-color: rgb(17, 17, 17);
+}

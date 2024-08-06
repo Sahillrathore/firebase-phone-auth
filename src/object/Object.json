@@ -1,0 +1,65 @@
+{
+    "detailsData":[
+       {
+           "id":1,
+           "serviceName":"Seo Service",
+           "img":"https://img.freepik.com/free-vector/seo-analytics-team-concept-illustration_114360-9205.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1721174400&semt=ais_user",
+           "details1":"1 On page Seo ",
+           "details2":"2 Off page Seo ",
+           "details3":"3 Local Seo",
+           "details4":"4 Technical Seo",
+           "details5":"4 Keyword Research ",
+           "details6":"5 Analytics and Reporting"
+          
+       },
+       {
+           "id":2,
+           "serviceName":"Advertisement",
+           "img":"https://st2.depositphotos.com/7865540/12334/i/450/depositphotos_123344792-stock-photo-advertising-concept-on-a-screen.jpg",
+           "details1":"1. Meta ads, Google ads, Snapchat ads",
+           "details2":"2. Brand Awareness Campaigns",
+           "details3":"3. Campaign Insights & stats",
+           "details4":"4. Setting ad Campaigns",
+           "details5":"5. Retargeting ads",
+           "details6":"6. Creating Static Creative"
+          
+       },
+       {
+           "id":3,
+           "serviceName":"Digital Marketing",
+           "img":"./gallery/img1.jpg",
+           "details1":"1. ads up to digital Spends of 2 Lac per month ads up to digital Spends of 2 Lac per month.",
+           "details2":"2. Keeping Track of Important KPIs",
+           "details3":"3. Running Campaigns to increase the sales",
+           "details4":"4. Running Brand Awareness Campaigns Running Brand Awareness Campaigns.",
+           "details5":"5. Creating content & Creative for ads campaign.",
+           "details6":"6. Sharing insights & stats of the campaigns regularly.",
+           "details7":"7.Setting and running Ad campaigns according to your business."
+           
+       },
+       {
+           "id": 4,
+           "serviceName":"Web development",
+           "img":"https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg",
+           "details1":"1. 3 to 4 weeks delivery",
+           "details2":"2. Complete website design ",
+           "details3":"3. Product Listing",
+           "details4":"4. Social Media Intergations",
+           "details5":"5. Mobile Friendly website"
+        
+         
+       },
+       {
+           "id": 5,
+           "serviceName":"Logo development",
+           "img":"./gallery/background.jpg" ,
+           "details1":"1 2+2 Sample Designs ",
+           "details2":"2 15-20 Days Delivery ",
+           "details3":"3 Brand identity Creation",
+           "details4":"4 Research About Business",
+           "details5":"5 High Resolution (HD) "
+         
+       }
+    ] 
+}
+
